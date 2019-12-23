@@ -1,0 +1,1 @@
+DB_URL = 'postgres://postgres:scg221spp@localhost/casaone'
